@@ -1,0 +1,378 @@
+[
+    {
+        "merged": "D:\\Projects\\AndroidStudio\\Account\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "C:\\Users\\A35X\\.android\\build-cache\\cae5dda9870c12fdbb65a8c27df03fbcc58e42d0\\output\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "D:\\Projects\\AndroidStudio\\Account\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bottom_background.bmp",
+        "source": "D:\\Projects\\AndroidStudio\\Account\\app\\src\\main\\res\\drawable\\bottom_background.bmp"
+    },
+    {
+        "merged": "D:\\Projects\\AndroidStudio\\Account\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "C:\\Users\\A35X\\.android\\build-cache\\cae5dda9870c12fdbb65a8c27df03fbcc58e42d0\\output\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "D:\\Projects\\AndroidStudio\\Account\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\widget.bmp",
+        "source": "D:\\Projects\\AndroidStudio\\Account\\app\\src\\main\\res\\drawable\\widget.bmp"
+    },
+    {
+        "merged": "D:\\Projects\\AndroidStudio\\Account\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bdelpopupy.bmp",
+        "source": "D:\\Projects\\AndroidStudio\\Account\\app\\src\\main\\res\\drawable\\bdelpopupy.bmp"
+    },
+    {
+        "merged": "D:\\Projects\\AndroidStudio\\Account\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\dialog_background.bmp",
+        "source": "D:\\Projects\\AndroidStudio\\Account\\app\\src\\main\\res\\drawable\\dialog_background.bmp"
+    },
+    {
+        "merged": "D:\\Projects\\AndroidStudio\\Account\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "C:\\Users\\A35X\\.android\\build-cache\\cae5dda9870c12fdbb65a8c27df03fbcc58e42d0\\output\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\Projects\\AndroidStudio\\Account\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_material.xml",
+        "source": "C:\\Users\\A35X\\.android\\build-cache\\cae5dda9870c12fdbb65a8c27df03fbcc58e42d0\\output\\res\\drawable\\abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "D:\\Projects\\AndroidStudio\\Account\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\A35X\\.android\\build-cache\\cae5dda9870c12fdbb65a8c27df03fbcc58e42d0\\output\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "D:\\Projects\\AndroidStudio\\Account\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\chartbarbtn.bmp",
+        "source": "D:\\Projects\\AndroidStudio\\Account\\app\\src\\main\\res\\drawable\\chartbarbtn.bmp"
+    },
+    {
+        "merged": "D:\\Projects\\AndroidStudio\\Account\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\basicbackground.bmp",
+        "source": "D:\\Projects\\AndroidStudio\\Account\\app\\src\\main\\res\\drawable\\basicbackground.bmp"
+    },
+    {
+        "merged": "D:\\Projects\\AndroidStudio\\Account\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "C:\\Users\\A35X\\.android\\build-cache\\cae5dda9870c12fdbb65a8c27df03fbcc58e42d0\\output\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\Projects\\AndroidStudio\\Account\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\popback.bmp",
+        "source": "D:\\Projects\\AndroidStudio\\Account\\app\\src\\main\\res\\drawable\\popback.bmp"
+    },
+    {
+        "merged": "D:\\Projects\\AndroidStudio\\Account\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\memo_modify.bmp",
+        "source": "D:\\Projects\\AndroidStudio\\Account\\app\\src\\main\\res\\drawable\\memo_modify.bmp"
+    },
+    {
+        "merged": "D:\\Projects\\AndroidStudio\\Account\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\m_list.bmp",
+        "source": "D:\\Projects\\AndroidStudio\\Account\\app\\src\\main\\res\\drawable\\m_list.bmp"
+    },
+    {
+        "merged": "D:\\Projects\\AndroidStudio\\Account\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "C:\\Users\\A35X\\.android\\build-cache\\cae5dda9870c12fdbb65a8c27df03fbcc58e42d0\\output\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "D:\\Projects\\AndroidStudio\\Account\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\basicdelpopup.bmp",
+        "source": "D:\\Projects\\AndroidStudio\\Account\\app\\src\\main\\res\\drawable\\basicdelpopup.bmp"
+    },
+    {
+        "merged": "D:\\Projects\\AndroidStudio\\Account\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\basicpopupcancel.bmp",
+        "source": "D:\\Projects\\AndroidStudio\\Account\\app\\src\\main\\res\\drawable\\basicpopupcancel.bmp"
+    },
+    {
+        "merged": "D:\\Projects\\AndroidStudio\\Account\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\A35X\\.android\\build-cache\\cae5dda9870c12fdbb65a8c27df03fbcc58e42d0\\output\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "D:\\Projects\\AndroidStudio\\Account\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btnmonth.bmp",
+        "source": "D:\\Projects\\AndroidStudio\\Account\\app\\src\\main\\res\\drawable\\btnmonth.bmp"
+    },
+    {
+        "merged": "D:\\Projects\\AndroidStudio\\Account\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\charttimebtn.bmp",
+        "source": "D:\\Projects\\AndroidStudio\\Account\\app\\src\\main\\res\\drawable\\charttimebtn.bmp"
+    },
+    {
+        "merged": "D:\\Projects\\AndroidStudio\\Account\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\main_memo.bmp",
+        "source": "D:\\Projects\\AndroidStudio\\Account\\app\\src\\main\\res\\drawable\\main_memo.bmp"
+    },
+    {
+        "merged": "D:\\Projects\\AndroidStudio\\Account\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_menu_overflow_material.xml",
+        "source": "C:\\Users\\A35X\\.android\\build-cache\\cae5dda9870c12fdbb65a8c27df03fbcc58e42d0\\output\\res\\drawable\\abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "D:\\Projects\\AndroidStudio\\Account\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\basictapbtn.bmp",
+        "source": "D:\\Projects\\AndroidStudio\\Account\\app\\src\\main\\res\\drawable\\basictapbtn.bmp"
+    },
+    {
+        "merged": "D:\\Projects\\AndroidStudio\\Account\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\m_option.bmp",
+        "source": "D:\\Projects\\AndroidStudio\\Account\\app\\src\\main\\res\\drawable\\m_option.bmp"
+    },
+    {
+        "merged": "D:\\Projects\\AndroidStudio\\Account\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\memo_background.bmp",
+        "source": "D:\\Projects\\AndroidStudio\\Account\\app\\src\\main\\res\\drawable\\memo_background.bmp"
+    },
+    {
+        "merged": "D:\\Projects\\AndroidStudio\\Account\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\memo_dialog_save.bmp",
+        "source": "D:\\Projects\\AndroidStudio\\Account\\app\\src\\main\\res\\drawable\\memo_dialog_save.bmp"
+    },
+    {
+        "merged": "D:\\Projects\\AndroidStudio\\Account\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_clear_material.xml",
+        "source": "C:\\Users\\A35X\\.android\\build-cache\\cae5dda9870c12fdbb65a8c27df03fbcc58e42d0\\output\\res\\drawable\\abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "D:\\Projects\\AndroidStudio\\Account\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background.xml",
+        "source": "C:\\Users\\A35X\\.android\\build-cache\\cae5dda9870c12fdbb65a8c27df03fbcc58e42d0\\output\\res\\drawable\\abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "D:\\Projects\\AndroidStudio\\Account\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_tile_bg.xml",
+        "source": "C:\\Users\\A35X\\.android\\build-cache\\cae5dda9870c12fdbb65a8c27df03fbcc58e42d0\\output\\res\\drawable\\notification_tile_bg.xml"
+    },
+    {
+        "merged": "D:\\Projects\\AndroidStudio\\Account\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_voice_search_api_material.xml",
+        "source": "C:\\Users\\A35X\\.android\\build-cache\\cae5dda9870c12fdbb65a8c27df03fbcc58e42d0\\output\\res\\drawable\\abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "D:\\Projects\\AndroidStudio\\Account\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_vector_test.xml",
+        "source": "C:\\Users\\A35X\\.android\\build-cache\\cae5dda9870c12fdbb65a8c27df03fbcc58e42d0\\output\\res\\drawable\\abc_vector_test.xml"
+    },
+    {
+        "merged": "D:\\Projects\\AndroidStudio\\Account\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_tick_mark_material.xml",
+        "source": "C:\\Users\\A35X\\.android\\build-cache\\cae5dda9870c12fdbb65a8c27df03fbcc58e42d0\\output\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "D:\\Projects\\AndroidStudio\\Account\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "C:\\Users\\A35X\\.android\\build-cache\\cae5dda9870c12fdbb65a8c27df03fbcc58e42d0\\output\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "D:\\Projects\\AndroidStudio\\Account\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\charttimepopupstartbtn.bmp",
+        "source": "D:\\Projects\\AndroidStudio\\Account\\app\\src\\main\\res\\drawable\\charttimepopupstartbtn.bmp"
+    },
+    {
+        "merged": "D:\\Projects\\AndroidStudio\\Account\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\maindate.bmp",
+        "source": "D:\\Projects\\AndroidStudio\\Account\\app\\src\\main\\res\\drawable\\maindate.bmp"
+    },
+    {
+        "merged": "D:\\Projects\\AndroidStudio\\Account\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "C:\\Users\\A35X\\.android\\build-cache\\cae5dda9870c12fdbb65a8c27df03fbcc58e42d0\\output\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "D:\\Projects\\AndroidStudio\\Account\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\view_style.xml",
+        "source": "D:\\Projects\\AndroidStudio\\Account\\app\\src\\main\\res\\drawable\\view_style.xml"
+    },
+    {
+        "merged": "D:\\Projects\\AndroidStudio\\Account\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "C:\\Users\\A35X\\.android\\build-cache\\cae5dda9870c12fdbb65a8c27df03fbcc58e42d0\\output\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\Projects\\AndroidStudio\\Account\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_ab_back_material.xml",
+        "source": "C:\\Users\\A35X\\.android\\build-cache\\cae5dda9870c12fdbb65a8c27df03fbcc58e42d0\\output\\res\\drawable\\abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "D:\\Projects\\AndroidStudio\\Account\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "C:\\Users\\A35X\\.android\\build-cache\\cae5dda9870c12fdbb65a8c27df03fbcc58e42d0\\output\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "D:\\Projects\\AndroidStudio\\Account\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "C:\\Users\\A35X\\.android\\build-cache\\cae5dda9870c12fdbb65a8c27df03fbcc58e42d0\\output\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "D:\\Projects\\AndroidStudio\\Account\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg.xml",
+        "source": "C:\\Users\\A35X\\.android\\build-cache\\cae5dda9870c12fdbb65a8c27df03fbcc58e42d0\\output\\res\\drawable\\notification_bg.xml"
+    },
+    {
+        "merged": "D:\\Projects\\AndroidStudio\\Account\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\basicpopupload.bmp",
+        "source": "D:\\Projects\\AndroidStudio\\Account\\app\\src\\main\\res\\drawable\\basicpopupload.bmp"
+    },
+    {
+        "merged": "D:\\Projects\\AndroidStudio\\Account\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "C:\\Users\\A35X\\.android\\build-cache\\cae5dda9870c12fdbb65a8c27df03fbcc58e42d0\\output\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "D:\\Projects\\AndroidStudio\\Account\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "C:\\Users\\A35X\\.android\\build-cache\\cae5dda9870c12fdbb65a8c27df03fbcc58e42d0\\output\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "D:\\Projects\\AndroidStudio\\Account\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_go_search_api_material.xml",
+        "source": "C:\\Users\\A35X\\.android\\build-cache\\cae5dda9870c12fdbb65a8c27df03fbcc58e42d0\\output\\res\\drawable\\abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "D:\\Projects\\AndroidStudio\\Account\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\chartpopupn.bmp",
+        "source": "D:\\Projects\\AndroidStudio\\Account\\app\\src\\main\\res\\drawable\\chartpopupn.bmp"
+    },
+    {
+        "merged": "D:\\Projects\\AndroidStudio\\Account\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\basicbackground_1.bmp",
+        "source": "D:\\Projects\\AndroidStudio\\Account\\app\\src\\main\\res\\drawable\\basicbackground_1.bmp"
+    },
+    {
+        "merged": "D:\\Projects\\AndroidStudio\\Account\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cancle.bmp",
+        "source": "D:\\Projects\\AndroidStudio\\Account\\app\\src\\main\\res\\drawable\\cancle.bmp"
+    },
+    {
+        "merged": "D:\\Projects\\AndroidStudio\\Account\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "C:\\Users\\A35X\\.android\\build-cache\\cae5dda9870c12fdbb65a8c27df03fbcc58e42d0\\output\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "D:\\Projects\\AndroidStudio\\Account\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\chartpopupy.bmp",
+        "source": "D:\\Projects\\AndroidStudio\\Account\\app\\src\\main\\res\\drawable\\chartpopupy.bmp"
+    },
+    {
+        "merged": "D:\\Projects\\AndroidStudio\\Account\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_icon_background.xml",
+        "source": "C:\\Users\\A35X\\.android\\build-cache\\cae5dda9870c12fdbb65a8c27df03fbcc58e42d0\\output\\res\\drawable\\notification_icon_background.xml"
+    },
+    {
+        "merged": "D:\\Projects\\AndroidStudio\\Account\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\charttimepopup.bmp",
+        "source": "D:\\Projects\\AndroidStudio\\Account\\app\\src\\main\\res\\drawable\\charttimepopup.bmp"
+    },
+    {
+        "merged": "D:\\Projects\\AndroidStudio\\Account\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\memo_dialog_cancle.bmp",
+        "source": "D:\\Projects\\AndroidStudio\\Account\\app\\src\\main\\res\\drawable\\memo_dialog_cancle.bmp"
+    },
+    {
+        "merged": "D:\\Projects\\AndroidStudio\\Account\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "C:\\Users\\A35X\\.android\\build-cache\\cae5dda9870c12fdbb65a8c27df03fbcc58e42d0\\output\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "D:\\Projects\\AndroidStudio\\Account\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\price.bmp",
+        "source": "D:\\Projects\\AndroidStudio\\Account\\app\\src\\main\\res\\drawable\\price.bmp"
+    },
+    {
+        "merged": "D:\\Projects\\AndroidStudio\\Account\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\add.bmp",
+        "source": "D:\\Projects\\AndroidStudio\\Account\\app\\src\\main\\res\\drawable\\add.bmp"
+    },
+    {
+        "merged": "D:\\Projects\\AndroidStudio\\Account\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "C:\\Users\\A35X\\.android\\build-cache\\cae5dda9870c12fdbb65a8c27df03fbcc58e42d0\\output\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "D:\\Projects\\AndroidStudio\\Account\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "C:\\Users\\A35X\\.android\\build-cache\\cae5dda9870c12fdbb65a8c27df03fbcc58e42d0\\output\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "D:\\Projects\\AndroidStudio\\Account\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "C:\\Users\\A35X\\.android\\build-cache\\cae5dda9870c12fdbb65a8c27df03fbcc58e42d0\\output\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "D:\\Projects\\AndroidStudio\\Account\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\chartpiebtn.bmp",
+        "source": "D:\\Projects\\AndroidStudio\\Account\\app\\src\\main\\res\\drawable\\chartpiebtn.bmp"
+    },
+    {
+        "merged": "D:\\Projects\\AndroidStudio\\Account\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\charttimepopupendbtn.bmp",
+        "source": "D:\\Projects\\AndroidStudio\\Account\\app\\src\\main\\res\\drawable\\charttimepopupendbtn.bmp"
+    },
+    {
+        "merged": "D:\\Projects\\AndroidStudio\\Account\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\m_chart.bmp",
+        "source": "D:\\Projects\\AndroidStudio\\Account\\app\\src\\main\\res\\drawable\\m_chart.bmp"
+    },
+    {
+        "merged": "D:\\Projects\\AndroidStudio\\Account\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\save.bmp",
+        "source": "D:\\Projects\\AndroidStudio\\Account\\app\\src\\main\\res\\drawable\\save.bmp"
+    },
+    {
+        "merged": "D:\\Projects\\AndroidStudio\\Account\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "C:\\Users\\A35X\\.android\\build-cache\\cae5dda9870c12fdbb65a8c27df03fbcc58e42d0\\output\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "D:\\Projects\\AndroidStudio\\Account\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btnweek.bmp",
+        "source": "D:\\Projects\\AndroidStudio\\Account\\app\\src\\main\\res\\drawable\\btnweek.bmp"
+    },
+    {
+        "merged": "D:\\Projects\\AndroidStudio\\Account\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "C:\\Users\\A35X\\.android\\build-cache\\cae5dda9870c12fdbb65a8c27df03fbcc58e42d0\\output\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "D:\\Projects\\AndroidStudio\\Account\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\basicoutputaddpopup.bmp",
+        "source": "D:\\Projects\\AndroidStudio\\Account\\app\\src\\main\\res\\drawable\\basicoutputaddpopup.bmp"
+    },
+    {
+        "merged": "D:\\Projects\\AndroidStudio\\Account\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "C:\\Users\\A35X\\.android\\build-cache\\cae5dda9870c12fdbb65a8c27df03fbcc58e42d0\\output\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "D:\\Projects\\AndroidStudio\\Account\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg_low.xml",
+        "source": "C:\\Users\\A35X\\.android\\build-cache\\cae5dda9870c12fdbb65a8c27df03fbcc58e42d0\\output\\res\\drawable\\notification_bg_low.xml"
+    },
+    {
+        "merged": "D:\\Projects\\AndroidStudio\\Account\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btnright.bmp",
+        "source": "D:\\Projects\\AndroidStudio\\Account\\app\\src\\main\\res\\drawable\\btnright.bmp"
+    },
+    {
+        "merged": "D:\\Projects\\AndroidStudio\\Account\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\main_content.bmp",
+        "source": "D:\\Projects\\AndroidStudio\\Account\\app\\src\\main\\res\\drawable\\main_content.bmp"
+    },
+    {
+        "merged": "D:\\Projects\\AndroidStudio\\Account\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\background.bmp",
+        "source": "D:\\Projects\\AndroidStudio\\Account\\app\\src\\main\\res\\drawable\\background.bmp"
+    },
+    {
+        "merged": "D:\\Projects\\AndroidStudio\\Account\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\basicinputbtn.bmp",
+        "source": "D:\\Projects\\AndroidStudio\\Account\\app\\src\\main\\res\\drawable\\basicinputbtn.bmp"
+    },
+    {
+        "merged": "D:\\Projects\\AndroidStudio\\Account\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\chartbackground_1.bmp",
+        "source": "D:\\Projects\\AndroidStudio\\Account\\app\\src\\main\\res\\drawable\\chartbackground_1.bmp"
+    },
+    {
+        "merged": "D:\\Projects\\AndroidStudio\\Account\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\basicinputaddpopup.bmp",
+        "source": "D:\\Projects\\AndroidStudio\\Account\\app\\src\\main\\res\\drawable\\basicinputaddpopup.bmp"
+    },
+    {
+        "merged": "D:\\Projects\\AndroidStudio\\Account\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\m_memo.bmp",
+        "source": "D:\\Projects\\AndroidStudio\\Account\\app\\src\\main\\res\\drawable\\m_memo.bmp"
+    },
+    {
+        "merged": "D:\\Projects\\AndroidStudio\\Account\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mainback.bmp",
+        "source": "D:\\Projects\\AndroidStudio\\Account\\app\\src\\main\\res\\drawable\\mainback.bmp"
+    },
+    {
+        "merged": "D:\\Projects\\AndroidStudio\\Account\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "C:\\Users\\A35X\\.android\\build-cache\\cae5dda9870c12fdbb65a8c27df03fbcc58e42d0\\output\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "D:\\Projects\\AndroidStudio\\Account\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\m_add_button.bmp",
+        "source": "D:\\Projects\\AndroidStudio\\Account\\app\\src\\main\\res\\drawable\\m_add_button.bmp"
+    },
+    {
+        "merged": "D:\\Projects\\AndroidStudio\\Account\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bdelpopupn.bmp",
+        "source": "D:\\Projects\\AndroidStudio\\Account\\app\\src\\main\\res\\drawable\\bdelpopupn.bmp"
+    },
+    {
+        "merged": "D:\\Projects\\AndroidStudio\\Account\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\main_stat.bmp",
+        "source": "D:\\Projects\\AndroidStudio\\Account\\app\\src\\main\\res\\drawable\\main_stat.bmp"
+    },
+    {
+        "merged": "D:\\Projects\\AndroidStudio\\Account\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\main_background.png",
+        "source": "D:\\Projects\\AndroidStudio\\Account\\app\\src\\main\\res\\drawable\\main_background.png"
+    },
+    {
+        "merged": "D:\\Projects\\AndroidStudio\\Account\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\basicbackbtn.bmp",
+        "source": "D:\\Projects\\AndroidStudio\\Account\\app\\src\\main\\res\\drawable\\basicbackbtn.bmp"
+    },
+    {
+        "merged": "D:\\Projects\\AndroidStudio\\Account\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\date.bmp",
+        "source": "D:\\Projects\\AndroidStudio\\Account\\app\\src\\main\\res\\drawable\\date.bmp"
+    },
+    {
+        "merged": "D:\\Projects\\AndroidStudio\\Account\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_search_api_material.xml",
+        "source": "C:\\Users\\A35X\\.android\\build-cache\\cae5dda9870c12fdbb65a8c27df03fbcc58e42d0\\output\\res\\drawable\\abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "D:\\Projects\\AndroidStudio\\Account\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "C:\\Users\\A35X\\.android\\build-cache\\cae5dda9870c12fdbb65a8c27df03fbcc58e42d0\\output\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "D:\\Projects\\AndroidStudio\\Account\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\memo_delete.bmp",
+        "source": "D:\\Projects\\AndroidStudio\\Account\\app\\src\\main\\res\\drawable\\memo_delete.bmp"
+    },
+    {
+        "merged": "D:\\Projects\\AndroidStudio\\Account\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\logo.bmp",
+        "source": "D:\\Projects\\AndroidStudio\\Account\\app\\src\\main\\res\\drawable\\logo.bmp"
+    },
+    {
+        "merged": "D:\\Projects\\AndroidStudio\\Account\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btnleft.bmp",
+        "source": "D:\\Projects\\AndroidStudio\\Account\\app\\src\\main\\res\\drawable\\btnleft.bmp"
+    },
+    {
+        "merged": "D:\\Projects\\AndroidStudio\\Account\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\basicoutputbtn.bmp",
+        "source": "D:\\Projects\\AndroidStudio\\Account\\app\\src\\main\\res\\drawable\\basicoutputbtn.bmp"
+    },
+    {
+        "merged": "D:\\Projects\\AndroidStudio\\Account\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tapbar.bmp",
+        "source": "D:\\Projects\\AndroidStudio\\Account\\app\\src\\main\\res\\drawable\\tapbar.bmp"
+    },
+    {
+        "merged": "D:\\Projects\\AndroidStudio\\Account\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\basicxbtn.bmp",
+        "source": "D:\\Projects\\AndroidStudio\\Account\\app\\src\\main\\res\\drawable\\basicxbtn.bmp"
+    }
+]

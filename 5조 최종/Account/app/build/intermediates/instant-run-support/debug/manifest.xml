@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="org.androidtown.account"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="15"
+        android:targetSdkVersion="26" />
+
+    <receiver android:name="org.androidtown.account.SMSReceiver" >
+        <intent-filter android:priority="10000" >
+            <action android:name="android.provider.Telephony.SMS_RECEIVED" />
+        </intent-filter>
+    </receiver>
+
+    <meta-data
+        android:name="android.support.VERSION"
+        android:value="26.0.0-alpha1" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.AppCompat.Light.NoActionBar.FullScreen" >
+        <activity android:name="org.androidtown.account.MainActivity" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name="org.androidtown.account.MemoActivity" />
+        <activity android:name="org.androidtown.account.AddBasic" />
+        <activity android:name="org.androidtown.account.BasicInputOutput" />
+        <activity android:name="org.androidtown.account.DeleteBasic" />
+        <activity android:name="org.androidtown.account.ErrorDialog" />
+        <activity android:name="org.androidtown.account.Graph" />
+        <activity android:name="org.androidtown.account.CheckDate" />
+        <activity android:name="org.androidtown.account.Management" />
+
+        <receiver
+            android:name="org.androidtown.account.NewAppWidget"
+            android:label="위젯test" >
+            <intent-filter>
+                <action android:name="android.appwidget.action.APPWIDGET_UPDATE" />
+            </intent-filter>
+
+            <meta-data
+                android:name="android.appwidget.provider"
+                android:resource="@xml/widget_word" />
+        </receiver>
+
+        <activity android:name="org.androidtown.account.PopupActivity" />
+
+        <provider
+            android:name="com.android.tools.fd.runtime.InstantRunContentProvider"
+            android:authorities="org.androidtown.account.com.android.tools.fd.runtime.InstantRunContentProvider"
+            android:multiprocess="true" />
+    </application>
+
+</manifest>

@@ -1,0 +1,155 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\Projects\AndroidStudio\Account\app\src\main\AndroidManifest.xml:2:1-45:12
+	package
+		ADDED from D:\Projects\AndroidStudio\Account\app\src\main\AndroidManifest.xml:3:5-38
+		INJECTED from D:\Projects\AndroidStudio\Account\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Projects\AndroidStudio\Account\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\Projects\AndroidStudio\Account\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Projects\AndroidStudio\Account\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\Projects\AndroidStudio\Account\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from D:\Projects\AndroidStudio\Account\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Projects\AndroidStudio\Account\app\src\main\AndroidManifest.xml
+application
+ADDED from D:\Projects\AndroidStudio\Account\app\src\main\AndroidManifest.xml:5:5-38:19
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\A35X\.android\build-cache\cae5dda9870c12fdbb65a8c27df03fbcc58e42d0\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\A35X\.android\build-cache\2d44dbb64ffa58afd8920e2b0cac2ccefa669047\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\A35X\.android\build-cache\c438d6c58fe5cfc388f98dacd3ddf477dba1bddd\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\A35X\.android\build-cache\5db5e7d3df686bac913a6413b309fc9e9fe62241\output\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\A35X\.android\build-cache\ff27b0d55ae4c6b04f6701e8b6e6dbb6dadf7b5a\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\A35X\.android\build-cache\672c8d04e3cf62d08c9dc91e7b8ed91a9f4941dc\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\A35X\.android\build-cache\7084ba11edfa0edca635b54424cd3f8ec19ff6aa\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\A35X\.android\build-cache\578ec05908d92930ff2dd7771bd3012b185650a2\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\A35X\.android\build-cache\a11f39b7db1c67c852757ab66474431c2d3b0737\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\A35X\.android\build-cache\07bf827b57b8a95d8ad1ee238bdac377edfb944a\output\AndroidManifest.xml:29:5-20
+	android:label
+		ADDED from D:\Projects\AndroidStudio\Account\app\src\main\AndroidManifest.xml:8:9-41
+	android:supportsRtl
+		ADDED from D:\Projects\AndroidStudio\Account\app\src\main\AndroidManifest.xml:10:9-35
+	android:roundIcon
+		ADDED from D:\Projects\AndroidStudio\Account\app\src\main\AndroidManifest.xml:9:9-54
+	android:allowBackup
+		ADDED from D:\Projects\AndroidStudio\Account\app\src\main\AndroidManifest.xml:6:9-35
+	android:icon
+		ADDED from D:\Projects\AndroidStudio\Account\app\src\main\AndroidManifest.xml:7:9-43
+	android:theme
+		ADDED from D:\Projects\AndroidStudio\Account\app\src\main\AndroidManifest.xml:11:9-76
+activity#org.androidtown.account.MainActivity
+ADDED from D:\Projects\AndroidStudio\Account\app\src\main\AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from D:\Projects\AndroidStudio\Account\app\src\main\AndroidManifest.xml:12:19-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from D:\Projects\AndroidStudio\Account\app\src\main\AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from D:\Projects\AndroidStudio\Account\app\src\main\AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from D:\Projects\AndroidStudio\Account\app\src\main\AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\Projects\AndroidStudio\Account\app\src\main\AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from D:\Projects\AndroidStudio\Account\app\src\main\AndroidManifest.xml:16:27-74
+activity#org.androidtown.account.MemoActivity
+ADDED from D:\Projects\AndroidStudio\Account\app\src\main\AndroidManifest.xml:19:9-50
+	android:name
+		ADDED from D:\Projects\AndroidStudio\Account\app\src\main\AndroidManifest.xml:19:19-47
+activity#org.androidtown.account.AddBasic
+ADDED from D:\Projects\AndroidStudio\Account\app\src\main\AndroidManifest.xml:20:9-46
+	android:name
+		ADDED from D:\Projects\AndroidStudio\Account\app\src\main\AndroidManifest.xml:20:19-43
+activity#org.androidtown.account.BasicInputOutput
+ADDED from D:\Projects\AndroidStudio\Account\app\src\main\AndroidManifest.xml:21:9-54
+	android:name
+		ADDED from D:\Projects\AndroidStudio\Account\app\src\main\AndroidManifest.xml:21:19-51
+activity#org.androidtown.account.DeleteBasic
+ADDED from D:\Projects\AndroidStudio\Account\app\src\main\AndroidManifest.xml:22:9-49
+	android:name
+		ADDED from D:\Projects\AndroidStudio\Account\app\src\main\AndroidManifest.xml:22:19-46
+activity#org.androidtown.account.ErrorDialog
+ADDED from D:\Projects\AndroidStudio\Account\app\src\main\AndroidManifest.xml:23:9-49
+	android:name
+		ADDED from D:\Projects\AndroidStudio\Account\app\src\main\AndroidManifest.xml:23:19-46
+activity#org.androidtown.account.Graph
+ADDED from D:\Projects\AndroidStudio\Account\app\src\main\AndroidManifest.xml:24:9-43
+	android:name
+		ADDED from D:\Projects\AndroidStudio\Account\app\src\main\AndroidManifest.xml:24:19-40
+activity#org.androidtown.account.CheckDate
+ADDED from D:\Projects\AndroidStudio\Account\app\src\main\AndroidManifest.xml:25:9-47
+	android:name
+		ADDED from D:\Projects\AndroidStudio\Account\app\src\main\AndroidManifest.xml:25:19-44
+activity#org.androidtown.account.Management
+ADDED from D:\Projects\AndroidStudio\Account\app\src\main\AndroidManifest.xml:26:9-48
+	android:name
+		ADDED from D:\Projects\AndroidStudio\Account\app\src\main\AndroidManifest.xml:26:19-45
+receiver#org.androidtown.account.NewAppWidget
+ADDED from D:\Projects\AndroidStudio\Account\app\src\main\AndroidManifest.xml:27:9-36:20
+	android:label
+		ADDED from D:\Projects\AndroidStudio\Account\app\src\main\AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from D:\Projects\AndroidStudio\Account\app\src\main\AndroidManifest.xml:27:19-47
+intent-filter#android.appwidget.action.APPWIDGET_UPDATE
+ADDED from D:\Projects\AndroidStudio\Account\app\src\main\AndroidManifest.xml:29:13-31:29
+action#android.appwidget.action.APPWIDGET_UPDATE
+ADDED from D:\Projects\AndroidStudio\Account\app\src\main\AndroidManifest.xml:30:17-84
+	android:name
+		ADDED from D:\Projects\AndroidStudio\Account\app\src\main\AndroidManifest.xml:30:25-81
+meta-data#android.appwidget.provider
+ADDED from D:\Projects\AndroidStudio\Account\app\src\main\AndroidManifest.xml:33:13-35:54
+	android:resource
+		ADDED from D:\Projects\AndroidStudio\Account\app\src\main\AndroidManifest.xml:35:17-52
+	android:name
+		ADDED from D:\Projects\AndroidStudio\Account\app\src\main\AndroidManifest.xml:34:17-58
+activity#org.androidtown.account.PopupActivity
+ADDED from D:\Projects\AndroidStudio\Account\app\src\main\AndroidManifest.xml:37:9-60
+	android:name
+		ADDED from D:\Projects\AndroidStudio\Account\app\src\main\AndroidManifest.xml:37:19-48
+receiver#org.androidtown.account.SMSReceiver
+ADDED from D:\Projects\AndroidStudio\Account\app\src\main\AndroidManifest.xml:39:5-43:16
+	android:name
+		ADDED from D:\Projects\AndroidStudio\Account\app\src\main\AndroidManifest.xml:39:15-41
+intent-filter#android.provider.Telephony.SMS_RECEIVED
+ADDED from D:\Projects\AndroidStudio\Account\app\src\main\AndroidManifest.xml:40:9-42:25
+	android:priority
+		ADDED from D:\Projects\AndroidStudio\Account\app\src\main\AndroidManifest.xml:40:24-48
+action#android.provider.Telephony.SMS_RECEIVED
+ADDED from D:\Projects\AndroidStudio\Account\app\src\main\AndroidManifest.xml:41:13-77
+	android:name
+		ADDED from D:\Projects\AndroidStudio\Account\app\src\main\AndroidManifest.xml:41:21-75
+uses-sdk
+INJECTED from D:\Projects\AndroidStudio\Account\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\A35X\.android\build-cache\cae5dda9870c12fdbb65a8c27df03fbcc58e42d0\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\A35X\.android\build-cache\2d44dbb64ffa58afd8920e2b0cac2ccefa669047\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\A35X\.android\build-cache\c438d6c58fe5cfc388f98dacd3ddf477dba1bddd\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\A35X\.android\build-cache\5db5e7d3df686bac913a6413b309fc9e9fe62241\output\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\A35X\.android\build-cache\ff27b0d55ae4c6b04f6701e8b6e6dbb6dadf7b5a\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\A35X\.android\build-cache\672c8d04e3cf62d08c9dc91e7b8ed91a9f4941dc\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\A35X\.android\build-cache\7084ba11edfa0edca635b54424cd3f8ec19ff6aa\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\A35X\.android\build-cache\578ec05908d92930ff2dd7771bd3012b185650a2\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:recyclerview-v7:26.0.0-alpha1] C:\Users\A35X\.android\build-cache\3918200e7a7427cdcede11aba1fd84f801fb34b3\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\A35X\.android\build-cache\a11f39b7db1c67c852757ab66474431c2d3b0737\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\A35X\.android\build-cache\07bf827b57b8a95d8ad1ee238bdac377edfb944a\output\AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\A35X\.android\build-cache\cae5dda9870c12fdbb65a8c27df03fbcc58e42d0\output\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from D:\Projects\AndroidStudio\Account\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Projects\AndroidStudio\Account\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\Projects\AndroidStudio\Account\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Projects\AndroidStudio\Account\app\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\A35X\.android\build-cache\cae5dda9870c12fdbb65a8c27df03fbcc58e42d0\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\A35X\.android\build-cache\2d44dbb64ffa58afd8920e2b0cac2ccefa669047\output\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\A35X\.android\build-cache\c438d6c58fe5cfc388f98dacd3ddf477dba1bddd\output\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\A35X\.android\build-cache\ff27b0d55ae4c6b04f6701e8b6e6dbb6dadf7b5a\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\A35X\.android\build-cache\672c8d04e3cf62d08c9dc91e7b8ed91a9f4941dc\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\A35X\.android\build-cache\7084ba11edfa0edca635b54424cd3f8ec19ff6aa\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\A35X\.android\build-cache\578ec05908d92930ff2dd7771bd3012b185650a2\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:recyclerview-v7:26.0.0-alpha1] C:\Users\A35X\.android\build-cache\3918200e7a7427cdcede11aba1fd84f801fb34b3\output\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\A35X\.android\build-cache\a11f39b7db1c67c852757ab66474431c2d3b0737\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\A35X\.android\build-cache\07bf827b57b8a95d8ad1ee238bdac377edfb944a\output\AndroidManifest.xml:25:5-27:41
+	android:value
+		ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\A35X\.android\build-cache\cae5dda9870c12fdbb65a8c27df03fbcc58e42d0\output\AndroidManifest.xml:27:9-38
+	android:name
+		ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\A35X\.android\build-cache\cae5dda9870c12fdbb65a8c27df03fbcc58e42d0\output\AndroidManifest.xml:26:9-47
