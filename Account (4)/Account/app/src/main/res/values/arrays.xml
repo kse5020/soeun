@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="IO">
+        <item >지출</item>
+        <item >수입</item>
+    </string-array>
+
+    <string-array name="like">
+        <item >식비</item>
+        <item >의료비</item>
+        <item >적금</item>
+        <item >교통비</item>
+        <item >의류비</item>
+        <item >기타</item>
+    </string-array>
+
+</resources>

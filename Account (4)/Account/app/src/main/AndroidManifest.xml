@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="org.androidtown.account">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.AppCompat.Light.NoActionBar.FullScreen">
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".MemoActivity" />
+        <activity android:name=".AddBasic" />
+        <activity android:name=".BasicInputOutput" />
+        <activity android:name=".DeleteBasic" />
+        <activity android:name=".ErrorDialog" />
+        <activity android:name=".Graph" />
+        <activity android:name=".CheckDate" />
+        <activity android:name=".Management"
+            android:theme="@android:style/Theme.Dialog"/>
+        <activity android:name=".NewAppWidget" />
+        <activity android:name=".PopupActivity"></activity>
+    </application>
+    <receiver android:name="SMSReceiver">
+        <intent-filter android:priority="10000">
+            <action android:name="android.provider.Telephony.SMS_RECEIVED"/>
+        </intent-filter>
+    </receiver>
+
+</manifest>
